@@ -1,2 +1,2 @@
 # auto-package-installer
-Otomatik Uygulama yükleyici (CachyOS özel)
+Otomatik Uygulama yükleyici scripti (CachyOS özel)
